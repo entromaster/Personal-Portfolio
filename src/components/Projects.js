@@ -39,7 +39,7 @@ export const Projects = () => {
         <Row>
           <Col>
             <h2>Projects</h2>
-            <p>I have listed 3 projects here. 1.Quickest Route to your destination on Delhi Metro 2.Lyrics Finder 3.Expense Monitor. Source code of each of them can be viewed by clicking Github link from NavBar.</p>
+            <p>I have listed 4 projects here. 1.Quickest Route to your destination on Delhi Metro 2.Lyrics Finder 3.Expense Monitor. Source code of each of them can be viewed by clicking Github link from NavBar.</p>
             <Tab.Container id="projects-tabs" defaultActiveKey="first">
             <Nav variant="pills"className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                 <Nav.Item>
