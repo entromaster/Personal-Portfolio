@@ -75,7 +75,7 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                    I'm very ambitious final year B.Tech Student looking for a
+                    I'm very ambitious recent graduate in B.Tech. ECE looking for a
                     role in established Tech company with the opportunity to
                     work with the latest technologies on challenging and diverse
                     projects. I'm quietly confident, naturally curious, and
